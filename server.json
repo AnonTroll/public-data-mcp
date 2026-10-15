@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.AnonTroll/public-data-mcp",
   "title": "Public Data MCP",
-  "description": "US public data for AI agents: recalls, gov contracts, ZIP income, TX new businesses, WHOIS, tech stacks",
+  "description": "US public data for AI agents: recalls, gov contracts, IRS ZIP income, TX leads, WHOIS, tech stack",
   "version": "1.0.0",
   "repository": {"url": "https://github.com/AnonTroll/public-data-mcp", "source": "github"},
   "websiteUrl": "https://payoffpath-wv2.pages.dev/public-data-mcp-server/",
